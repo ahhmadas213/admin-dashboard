@@ -3,6 +3,9 @@
 ## Overview
 Welcome to the **Admin Dashboard** project! This dashboard is a responsive and customizable interface built using **HTML**, **CSS**, and **Web Fonts**. The project leverages a **custom CSS framework** to ensure a clean and modern design, making it perfect for managing various administrative tasks.
 
+## <a href="https://abiu-admin-dashboard.pages.dev/" target="_blank">🌐 Live version</a>
+
+
 ## Features
 The Admin Dashboard includes the following key pages:
 
