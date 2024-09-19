@@ -2,7 +2,7 @@
 
 | Image 1                                     | Image 2                                    |
 |---------------------------------------------|--------------------------------------------|
-| <img src="client/public/images/show2.png">    | <img src="client/public/images/show3.png">   |
+| <img src="/imgs/screen2.png">    | <img src="/imgs/screen1.png">   |
 
 ## Overview
 Welcome to the **Admin Dashboard** project! This dashboard is a responsive and customizable interface built using **HTML**, **CSS**, and **Web Fonts**. The project leverages a **custom CSS framework** to ensure a clean and modern design, making it perfect for managing various administrative tasks.
